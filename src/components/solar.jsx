@@ -4,7 +4,6 @@ import './solar.css'
 const solar = () => {
   return (
     <>
-    <div className="body">
     <div className="container">
         <div className="sun"></div>
           <div className="earth">
@@ -12,7 +11,6 @@ const solar = () => {
 
             </div>
           </div>
-    </div>
     </div>
     </>
   )
